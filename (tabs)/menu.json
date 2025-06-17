@@ -1,0 +1,56 @@
+[
+    {
+        "Name": "Potatoe Bombas",
+        "Description": "Crispy crumb, oozy Manchego & spicy tomato sauce.",
+        "Price": 210,
+        "selectedOption": "STARTER"
+      },
+    {
+      "Name": "Stick of butter Chicken and Rice",
+      "Description": "Stick of butter chicken and rice.",
+      "Price": 180,
+      "selectedOption": "MAIN"
+    },
+    {
+      "Name": "Feta Filo Turnovers",
+      "Description": "Fresh marjoram, runny honey & pistachio sprinkle.",
+      "Price": 75,
+      "selectedOption": "STARTER"
+    },
+    {
+      "Name": "Banoffee Pie",
+      "Description": "Classic combo of bananas and toffee.",
+      "Price": 65,
+      "selectedOption": "DESSERT"
+    },
+    {
+        "Name": "Punchy prawns",
+        "Description": "Prawns made with perfection.",
+        "Price": 45,
+        "selectedOption": "STARTER"
+      },
+      {
+        "Name": "Pasta Alla Caponata",
+        "Description": "Nicely cooked pasta with pasta sauce.",
+        "Price": 100,
+        "selectedOption": "MAIN"
+      },
+      {
+        "Name": "Buckeye Bundt Cake",
+        "Description": "Classic flavors of buckeye candy.",
+        "Price": 50,
+        "selectedOption": "DESSERT"
+      },
+      {
+        "Name": "Wild garlic butter",
+        "Description": "Capture the flavours of spring.",
+        "Price": 35,
+        "selectedOption": "STARTER"
+      },
+      {
+        "Name": "Pineapple Teriyaki Chicken",
+        "Description": "Pineapple teriyaki chicken, marinated, air fried with pineapple chunks.",
+        "Price": 100,
+        "selectedOption": "MAIN"
+      }
+  ]
